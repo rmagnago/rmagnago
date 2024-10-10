@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor fullstack em formação pelo Instituto Federal do Espírito Santo. Atualmente focado em `Next.js` e `Spring`. 🚀
 
-**Algumas das tecnologias que eu domino:** 🧠👇
+**Algumas das tecnologias que eu domino:** 👇
 
 - 🔧 **Linguagens:** Java, C++, JavaScript, TypeScript
 - 🛠 **Frameworks:** Spring, React, Next.js, Angular
