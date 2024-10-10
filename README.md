@@ -1,13 +1,13 @@
 **E ai! sou Rafael**👋
 
-Sou um desenvolvedor fullstack em formação pelo Instituto Federal do Espírito Santo. Atualmente focado em `Next.js` e `Spring`. 🚀
+Sou um desenvolvedor fullstack em formação pelo Instituto Federal do Espírito Santo. Atualmente focado em `Next.js` e `Spring` 🚀.
 
 **Algumas das tecnologias que eu domino:** 👇
 
-- 🔧 **Linguagens:** Java, C++, JavaScript, TypeScript
-- 🛠 **Frameworks:** Spring, React, Next.js, Angular
-- 💾 **Bancos de Dados:** PostgreSQL, MySQL
-- 🔍 **Ferramentas:** Git, Docker, AWS
+- 🔧 **Linguagens:** `Java`, `C++`, `JavaScript`, `TypeScript`
+- 🛠 **Frameworks:** `Spring`, `React`, `Next.js`, `Angular`
+- 💾 **Bancos de Dados:** `PostgreSQL`, `MySQL`
+- 🔍 **Ferramentas:** `Git`, `Docker`, `AWS`
 
 💬 Quer bater um papo?
 
