@@ -1,16 +1,14 @@
-## Hi there 👋
+**E ai! sou Rafael**👋
 
-<!--
-**rmagnago/rmagnago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor fullstack em formação pelo Instituto Federal do Espírito Santo. Atualmente focado em `Next.js` e `Spring`. 🚀
 
-Here are some ideas to get you started:
+**Algumas das tecnologias que eu domino:** 🧠👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Linguagens:** Java, C++, JavaScript, TypeScript
+- 🛠 **Frameworks:** Spring, React, Next.js, Angular
+- 💾 **Bancos de Dados:** PostgreSQL, MySQL
+- 🔍 **Ferramentas:** Git, Docker, AWS
+
+💬 Quer bater um papo?
+
+Me procura no [LinkedIn](https://www.linkedin.com/in/rafael-magnago-86b35a1a3/) ou manda um e-mail para [rmagnago@outlook.com](rmagnago@outlook.com).
