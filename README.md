@@ -3,8 +3,6 @@
 **Software Developer (Java Backend & Full Stack)** holding a B.Sc. in Information Systems from **IFES** (Brazil).  
 I specialize in building enterprise backend services, ERP extensions, and modern web applications using **Java, Spring Boot, SQL, Angular, and React/Next.js**.
 
-🌍 Currently based in Brazil and **open to relocation to Ireland** (Eligible for the **Critical Skills Employment Permit - CSEP**).
-
 ---
 
 ### 🛠️ Tech Stack & Core Skills
